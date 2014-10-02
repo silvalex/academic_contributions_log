@@ -1,0 +1,24 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+
+%opening
+\title{Academic Contributions Log}
+\author{Alexandre Sawczuk da Silva}
+
+\begin{document}
+
+\maketitle
+
+\section{Review for Journal of Computers (JCP)}
+\begin{itemize}
+\item Date: 6 August 2014
+\item Editor-in-chief: Professor Prabhat Kumar Mahanti
+\item Title: Particle Swarm Optimization for Reliable QoS-aware Web Service Selection
+\item Author: Lu Cheng
+\end{itemize}
+
+\includepdf[pages={-}]{JCPREVIEW-FORM-8-1.pdf}
+
+
+\end{document}
